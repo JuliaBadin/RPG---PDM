@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RPG - PDM</string>
+
+    <string-array name="opcoes">
+        <item>Caminho da direita</item>
+        <item>Caminho da esquerda</item>
+        <item>Ficar e lutar</item>
+    </string-array>
+</resources>
